@@ -68,35 +68,27 @@ module.exports = function toReadable (number) {
                 break;
             case 2: 
                 str +=  num_3[0];
-                one(number);
                 break;
             case 3: 
                 str +=  num_3[1];
-                one(number);
                 break;
             case 4: 
                 str +=  num_3[2];
-                one(number);
                 break;
             case 5:
                 str +=  num_3[3];
-                one(number);
                 break;
             case 6:
                 str +=  num_3[4];
-                one(number);
                 break;
             case 7:
                 str +=  num_3[5];
-                one(number);
                 break;
             case 8:
                 str +=  num_3[6];
-                one(number);
                 break;
             case 9: 
                 str +=  num_3[7];
-                one(number);
                 break;
         }
         if(form2>0 && k===0 && form3!=0){
